@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@400;600;700&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --color-famous-blue: #003366;
+  --color-famous-light-blue: #007bff;
+  --color-famous-blue-dark: #001a33;
+  --color-famous-vibrant: #1e40af;
+
+  --color-famous-bg: #f0f7ff; /* VERY LIGHT BLUE */
+  --color-famous-accent: #e0f0ff;
+
+  --font-sans: "Inter", "system-ui", "sans-serif";
+  --font-display: "Outfit", "sans-serif";
+}
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: #001a33;
+  background-color: #f0f7ff; /* Very Light Blue Base */
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: #f0f7ff;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+}
