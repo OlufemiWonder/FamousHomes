@@ -1,8 +1,6 @@
 # Famous Homes Nigeria
 
-Famous Homes is a premier, high-end real estate platform localized for the Nigerian market. Part of the **Famous Holdings Group**, the platform provides a seamless, modern experience for discovering luxury residential and commercial properties in Lagos and across Nigeria.
-
-## Features
+Famous Homes is a premier, high-end real estate platform localized for the Nigerian market. Part of the **Famous Holdings Group**, the platform provides a seamless, modern experience for discovering luxury residential and commercial properties in Lagos and across Nigeri
 
 - **Dynamic Interactive Hero**: A high-impact background slideshow featuring premium Nigerian architecture.
 - **Localized Content**: All prices in Naira (₦) with a focus on premium neighborhoods like Ikoyi, Banana Island, and Lekki.
